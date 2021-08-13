@@ -1,0 +1,3 @@
+amora 2 1.5
+banana 7 1.4
+maca 3 5.1
